@@ -1,2 +1,2 @@
-# LTD-Conformer-Speech-Depression-Detection
-LTD-Conformer model with Speaking and Listening Perspectives - CBMS 2025
+# LTD-Conformer: Speech Depression Detection with Speaking and Listening Perspectives
+CBMS 2025
