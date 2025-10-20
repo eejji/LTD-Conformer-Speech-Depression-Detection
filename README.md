@@ -23,3 +23,14 @@ Depression is a pervasive mental health problem worldwide and requires quick and
 
 ## Work flow
 ![image](https://github.com/eejji/LTD-Conformer-Speech-Depression-Detection/blob/main/Figure/Workflow.png)
+
+## Preprocessing
+#### Data Augmentation
+1. __Pitch shifting__ : -0.55 ~ -0.2 and 0.2 ~ 0.55
+
+#### Feature extraction
+Using 4 s window, 1 s overlap audio signal / frame length 25 ms, frame stride 10 ms
+1. __Listening__ : Mel-spectrogram (80-dimensional)
+2. __Speaking__ : HuBERT (768-dimensional)
+
+
