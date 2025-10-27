@@ -33,4 +33,6 @@ Using 4 s window, 1 s overlap audio signal / frame length 25 ms, frame stride 10
 1. __Listening__ : Mel-spectrogram (80-dimensional)
 2. __Speaking__ : HuBERT (768-dimensional)
 
+## Method
+![image](https://github.com/eejji/LTD-Conformer-Speech-Depression-Detection/blob/main/Figure/Model.png)
 
