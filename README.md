@@ -1,4 +1,4 @@
-# LTD-Conformer: Speech Depression Detection with Speaking and Listening Perspectives
+# LTD-Conformer: Speech Depression Detection with Speaking and Listening Perspectiv
 
 ## Conference / Publication
 **Conference:** 38th IEEE International Symposium on Computer-Based Medical Systems (CBMS)   
