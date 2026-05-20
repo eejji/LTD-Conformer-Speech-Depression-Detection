@@ -155,6 +155,12 @@ Train / Validation / Test split on the DAIC-WOZ database:
 | Conformer (baseline) | 83.00% | 0.83 |
 | **LTD-Conformer (proposed)** | **87.04%** | **0.87** |
 
+![Confusion_matrix](https://github.com/eejji/LTD-Conformer-Speech-Depression-Detection/blob/main/Figure/Confusion_matrix.png)
+
+Confusion matrix comparison between (A) the baseline Conformer and (B) the proposed LTD-Conformer.   
+The depression-class recall improves from **0.74 → 0.81**, indicating that the Long-Term Module and dilated convolution help the model identify depressed patients more reliably.
+
+
 ### Ablation — Listening vs Speaking Features
 
 | Model | Feature | Accuracy | F1-Score |
